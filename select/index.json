@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Femininomenon",
+  "base_artist": "Chappell Roan",
+  "createdAt": "2026-03-08T07:24:21.522286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Femininomenon",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/01_Femininomenon_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Femininomenon",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/02_Femininomenon_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Femininomenon Explicit",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/03_Femininomenon_Explicit_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Femininomenon",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/04_Femininomenon_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Femininomenon [Explicit]",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/05_Femininomenon_[Explicit]_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Femininomenon",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/06_Femininomenon_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Femininomenon",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/07_Femininomenon_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Femininomenon",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/08_Femininomenon_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Femininomenon",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/09_Femininomenon_Chappell_Roan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Femininomenon",
+      "artist": "Chappell Roan",
+      "has_synced": false,
+      "path": "select/pl_01_Femininomenon_Chappell_Roan.txt"
+    }
+  ]
+}
